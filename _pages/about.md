@@ -16,12 +16,33 @@ My research focuses on understanding sequential interactions using both the data
 
 Previously, I received my bachelor's degree in Mathematics and Applied Mathematics from Fudan University in 2016.
     
-[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_August2022.pdf)
+[Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf)
 
   
 Contact
 ======
-Email: wenjiaba8 [at] gmail.com
+Email: wenjiaba [at] stanford.edu
+
+Recent Talks
+======
+
+**Online Advertising via Bandit Experiment: An Efficient Method Suitable for High-dimensional Problems**
+
+INFORMS Annual Meeting 2021, Anaheim, CA
+
+JD.com Research Seminar 2021, Virtual
+
+MOILS (Operation Management Lunch Seminar) 2021, NYU Stern, Virtual
+
+**Sales Policies for a Virtual Assistant Platform**
+
+INFORMS Annual Meeting 2019, Seattle, WA 
+
+Revenue Management and Pricing 2019, Stanford, CA 
+
+MSOM Conference 2019, Singapore
+
+
 
 
 
