@@ -14,10 +14,7 @@ About Me
 I am a PhD student from Stanford Graduate School of Business, co-advised by [Prof. Haim Mendelson](https://www.gsb.stanford.edu/faculty-research/faculty/haim-mendelson) and [Prof. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison).
 My research focuses on understanding sequential interactions using both the data-driven algorithmic approach and the modeling approach. In my research, I apply machine learning, revenue management, and probability theory to applications such as online advertising, games, and emerging platforms like virtual assistants.
 
-Previously, I received my bachelor's degree in Mathematics and Applied Mathematics from Fudan University in 2016.
-    
-[Curriculum Vitae](https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf)
-
+Previously, I received my bachelor's degree in Mathematics and Applied Mathematics from Fudan University
   
 Contact
 ======
