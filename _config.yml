@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wenjia Ba"
   avatar           : "pp.jpeg"
-  bio              : "PhD Student, Stanford Graduate School of Business"
+  bio              : "PhD Student, Stanford"
   location         : "Palo Alto, CA"
-  employer         : 
+  employer         : "https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
   curriculum vitae : #"https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wenjiaba@stanford.edu"
