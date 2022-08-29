@@ -84,7 +84,7 @@ author:
   avatar           : "pp.jpeg"
   bio              : "PhD Student, Stanford"
   location         : "Palo Alto, CA"
-  employer         : "https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
+  employer         : #""
   curriculum vitae : #"https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wenjiaba@stanford.edu"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
   foursquare       :
   github           : #"wenjiaba"
   google_plus      :
