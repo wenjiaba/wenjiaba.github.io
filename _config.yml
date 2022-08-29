@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenjia Ba"
 title_separator          : "-"
 name                     : &name "Wenjia Ba"
-description              : &description "hhhhh"
+description              : &description ""
 url                      : https://wenjiaba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -84,8 +84,8 @@ author:
   avatar           : "pp.jpeg"
   bio              : "PhD Student, Stanford Graduate School of Business"
   location         : "Palo Alto, CA"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  curriculum vitae : #"https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wenjiaba@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -116,9 +116,6 @@ author:
   youtube          :
   wikipedia        :
 
-<ul class="actions">
-	<li><a href="https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_wenjiaba_public_1.pdf" class="button">Curriculum Vitae</a></li>
-</ul>
 
 # Reading Files
 include:
