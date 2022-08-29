@@ -51,10 +51,8 @@
     @include breakpoint($large) {
       padding: 0px;
       border: 0px solid $border-color;
-     }
+    }
   }
-}
-
 .sidebar__right {
   margin-bottom: 1em;
 
