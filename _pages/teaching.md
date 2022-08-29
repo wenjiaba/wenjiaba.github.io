@@ -16,6 +16,8 @@ Fall 2018, Fall 2019
 **OIT 356: Electronic Business**
 
 Elective MBA class
+
 Teaching assistant
+
 Winter 2019, Spring 2020 (virtual)
 
