@@ -41,6 +41,6 @@ Approximations to Bernoulli Bandits
 -----
 *in preparation*
 
-(with Lin Fan, J. Michael Harrison, and Peter W. Glynn)
+(with [Lin Fan](https://linfanf.github.io), [J. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison), and [Peter W. Glynn](https://web.stanford.edu/~glynn/))
 
 
