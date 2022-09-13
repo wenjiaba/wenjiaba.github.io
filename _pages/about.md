@@ -11,7 +11,8 @@ redirect_from:
 About Me
 ======
 
-I am a PhD student from Stanford Graduate School of Business, co-advised by [Prof. Haim Mendelson](https://www.gsb.stanford.edu/faculty-research/faculty/haim-mendelson) and [Prof. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison).
+I am a postdoctoral scientist at [Amazon Science](https://www.amazon.science). I completed my Ph.D. from Stanford Graduate School of Business, co-advised by [Prof. Haim Mendelson](https://www.gsb.stanford.edu/faculty-research/faculty/haim-mendelson) and [Prof. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison).
+
 My research focuses on understanding sequential interactions using both the data-driven algorithmic approach and the modeling approach. In my research, I apply machine learning, revenue management, and probability theory to applications such as online advertising, games, and emerging platforms like virtual assistants.
 
 Previously, I received my bachelor's degree in Mathematics and Applied Mathematics from Fudan University.
@@ -19,6 +20,10 @@ Previously, I received my bachelor's degree in Mathematics and Applied Mathemati
 Contact
 ======
 Email: wenjiaba [at] stanford.edu
+
+News
+======
+I am joining the [University of British Columbia](https://www.ubc.ca) as an assistant professor in the [Marketing and Behavioural Science Division](https://www.sauder.ubc.ca/thought-leadership/divisions/marketing-and-behavioural-science) in Fall 2023.
 
 Recent Talks
 ======
