@@ -21,3 +21,12 @@ Teaching assistant
 
 Winter 2019, Spring 2020 (virtual)
 
+**MKTG 344: Marketing Research**
+
+Elective MBA class
+
+Teaching assistant
+
+Spring 2022
+
+
