@@ -19,7 +19,7 @@ Previously, I received my bachelor's degree in Mathematics and Applied Mathemati
   
 Contact
 ======
-Email: wenjiaba@sauder.ubc.ca
+Email: wenjia.ba@sauder.ubc.ca
 
 
 Recent Talks
