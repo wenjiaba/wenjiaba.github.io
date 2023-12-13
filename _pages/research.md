@@ -29,7 +29,7 @@ We study the implications of selling through a voice-based virtual assistant (VA
  
 [Doubly Optimal No-Regret Online Learning in Strongly Monotone Games with Bandit Feedback](https://arxiv.org/abs/2112.02856)
 -----
-*major revision at Operations Research*
+*minor revision at Operations Research*
 
 (with [Tianyi Lin](https://tydlin.github.io), [Zhengyuan Zhou](https://www.stern.nyu.edu/faculty/bio/zhengyuan-zhou), and [Jiawei Zhang](https://www.stern.nyu.edu/faculty/bio/jiawei-zhang)) 
 
