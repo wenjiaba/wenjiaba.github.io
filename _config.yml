@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenjia Ba"
   avatar           : "pp.jpeg"
-  bio              : "Postdoctoral Scientist, Amazon"
-  location         : "Palo Alto, CA"
+  bio              : "Assistant Professor, University of British Columbia"
+  location         : "Vancouver, Canada"
   employer         : #""
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "wenjiaba@stanford.edu"
+  email            : "wenjia.ba@sauder.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   cv               : "https://wenjiaba.github.io/files/CV_wenjiaba_public.pdf"
   uri              :
