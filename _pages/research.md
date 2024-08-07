@@ -7,7 +7,7 @@ author_profile: true
 
 [Advertising Media and Target Audience Optimization via High-dimensional Bandits](https://arxiv.org/abs/2209.08403)
 -----
-*major revision at Management Science*
+*minor revision at Management Science*
 
 (with [J. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison) and [Harikesh S. Nair](https://gsb-faculty.stanford.edu/harikesh-nair/)) 
 
