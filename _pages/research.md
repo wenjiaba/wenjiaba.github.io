@@ -27,7 +27,7 @@ Sales Policies of a Virtual Assistant
 We study the implications of selling through a voice-based virtual assistant (VA). The seller has a set of products available and the VA decides on product ranking and pricing, seeking to maximize seller profit, consumer surplus, or total surplus. The consumer is impatient yet rational, seeking to maximize her expected utility. The VA presents the products sequentially. Once a product is presented and priced, the consumer evaluates it and decides whether to purchase it. The consumer's valuation comprises a pre-evaluation value which is common knowledge and a private post-evaluation component. We solve for the equilibria and develop efficient algorithms for implementing the solution. We examine the effects of information asymmetry on the outcomes and study how incentive misalignment depends on the private valuation distributions.
 </blockquote></details>
  
-Doubly Optimal No-Regret Online Learning in Strongly Monotone Games with Bandit Feedback [arxiv](https://arxiv.org/abs/2112.02856)[html](https://pubsonline.informs.org/doi/10.1287/opre.2021.0445)
+Doubly Optimal No-Regret Online Learning in Strongly Monotone Games with Bandit Feedback [[arxiv]](https://arxiv.org/abs/2112.02856)[[html]](https://pubsonline.informs.org/doi/10.1287/opre.2021.0445)
 -----
 *forthcoming at Operations Research*
 
