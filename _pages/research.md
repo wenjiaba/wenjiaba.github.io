@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Advertising Media and Target Audience Optimization via High-dimensional Bandits [arxiv](https://arxiv.org/abs/2209.08403)
+Advertising Media and Target Audience Optimization via High-dimensional Bandits [[arxiv]](https://arxiv.org/abs/2209.08403)
 -----
 *minor revision at Management Science*
 
