@@ -24,21 +24,24 @@ Email: wenjia.ba@sauder.ubc.ca
 
 Recent Talks
 ======
+**Consumer Behavior and Algorithmic Price Competition: The Case of Reference Dependence**
+Empirical and Theoretical Symposium (ETSYM) 2026, Winnipeg, Manitoba, Canada
+Market Dynamics Conference 2026, Paris
+ISMS Marketing Science 2026, Portugal
+
+**Approximations to Bernouli Bandits**
+INFORMS 2024, Seattle, WA
+ISMS Marketing Science 2025, Washington DC 
 
 **Online Advertising via Bandit Experiment: An Efficient Method Suitable for High-dimensional Problems**
 
 INFORMS Annual Meeting 2021, Anaheim, CA
-
 JD.com Research Seminar 2021, Virtual
-
 MOILS (Operation Management Lunch Seminar) 2021, NYU Stern, Virtual
 
 **Sales Policies for a Virtual Assistant Platform**
-
 INFORMS Annual Meeting 2019, Seattle, WA 
-
 Revenue Management and Pricing 2019, Stanford, CA 
-
 MSOM Conference 2019, Singapore
 
 
