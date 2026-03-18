@@ -29,4 +29,11 @@ Teaching assistant
 
 Spring 2022
 
+**COMM365: Market Reserach**
+
+Core Marketing class
+
+Instructor
+
+Fall 2023, Fall 2024, Fall 2025, Fall 2026
 
