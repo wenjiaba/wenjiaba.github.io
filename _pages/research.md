@@ -17,7 +17,7 @@ We consider online no-regret learning in unknown games with bandit feedback, whe
 
 Advertising Media and Target Audience Optimization via High-dimensional Bandits [[arxiv]](https://arxiv.org/abs/2209.08403)
 -----
-*minor revision at Management Science*
+*Accepted, Management Science*
 
 (with [J. Michael Harrison](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison) and [Harikesh S. Nair](https://gsb-faculty.stanford.edu/harikesh-nair/)) 
 
